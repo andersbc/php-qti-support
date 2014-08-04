@@ -1,3 +1,8 @@
+NOTE: This is a fork of https://github.com/micaherne/php-qti-support.
+
+Go to the original source, this fork is just for playing around.  
+
+
 PHP-QTI Support
 ===============
 
